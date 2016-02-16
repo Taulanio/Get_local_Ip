@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetIPCS", "GetIPCS.csproj", "{F928BB6E-E374-4C8D-B0AB-45C980EFB372}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F928BB6E-E374-4C8D-B0AB-45C980EFB372}.Debug.ActiveCfg = Debug|.NET
+		{F928BB6E-E374-4C8D-B0AB-45C980EFB372}.Debug.Build.0 = Debug|.NET
+		{F928BB6E-E374-4C8D-B0AB-45C980EFB372}.Release.ActiveCfg = Release|.NET
+		{F928BB6E-E374-4C8D-B0AB-45C980EFB372}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
